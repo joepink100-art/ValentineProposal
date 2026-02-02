@@ -15,7 +15,7 @@ const Success = () => (
       Awh you really said yes? I love you beautiful :).
     </p>
     {/* Displaying the date of the special moment */}
-    <p className="App-text-date">See you 14/02/2025</p>
+    <p className="App-text-date">See you 14/02/2026</p>
   </div>
 );
 
